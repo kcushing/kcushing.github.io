@@ -1,2 +1,3 @@
 Name: Kyle Cushing
 Expectation: I want to be able to better communicate with developers on my team and to my clients
+Occupation: Co-Founder, VP of Customer Development, ClearContract
