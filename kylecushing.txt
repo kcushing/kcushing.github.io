@@ -2,3 +2,4 @@ Name: Kyle Cushing
 Expectation: I want to be able to better communicate with developers on my team and to my clients
 Occupation: Co-Founder, VP of Customer Development, ClearContract
 Interesting Fact: I recently met Will Ferrell while skiing in Aspen
+App Idea: Fitness app that randonly generates 20 minute workouts for consistent, time-constrained traveleres using only their bodyweight and items that are typically found in hotel rooms
